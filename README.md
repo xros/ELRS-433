@@ -50,3 +50,6 @@ Print rx1/2 and use threaded inserts + m3 bolts to secure.
 # TESTING
 So far, 45km at 10mw was achieved from a takeoff point which was not ideal. There was no LOS towards the end.
 ![image](https://user-images.githubusercontent.com/1324144/235009741-40a1a1b1-8efb-4ae1-88ae-fcb74584971a.png)
+
+# Receiver
+![image](Screenshot_31-8-2024_81210_10.0.0.1.jpeg)
